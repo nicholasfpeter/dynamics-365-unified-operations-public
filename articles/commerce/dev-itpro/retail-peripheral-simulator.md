@@ -97,7 +97,7 @@ You can use the peripheral simulator to test product bar codes, receipt formats,
      | Line display      | OPOS        | MockOPOSLineDisplay      |
      | MSR               | OPOS        | MockOPOSMSR              |
      | Drawer            | OPOS        | MockOPOSDrawer1          |
-     | Drawer2           | OPOS        | MockOPOSDrawers          |
+     | Drawer2           | OPOS        | MockOPOSDrawer2          |
      | Scanner           | OPOS        | MockOPOSScanner          |
      | Scale             | OPOS        | MockOPOSScale            |
      | PIN Pad           | OPOS        | MockOPOSPinPad           |
